@@ -1,0 +1,12 @@
+C:\Users\nickh\Documents\Projects\scratch\scratch\src\scratch\obj\Debug\netcoreapp2.1\scratch.fsprojAssemblyReference.cache
+C:\Users\nickh\Documents\Projects\scratch\scratch\src\scratch\obj\Debug\netcoreapp2.1\scratch.AssemblyInfoInputs.cache
+C:\Users\nickh\Documents\Projects\scratch\scratch\src\scratch\obj\Debug\netcoreapp2.1\scratch.AssemblyInfo.fs
+C:\Users\nickh\Documents\Projects\scratch\scratch\src\scratch\bin\Debug\netcoreapp2.1\WebRoot\main.css
+C:\Users\nickh\Documents\Projects\scratch\scratch\src\scratch\bin\Debug\netcoreapp2.1\web.config
+C:\Users\nickh\Documents\Projects\scratch\scratch\src\scratch\bin\Debug\netcoreapp2.1\scratch.deps.json
+C:\Users\nickh\Documents\Projects\scratch\scratch\src\scratch\bin\Debug\netcoreapp2.1\scratch.runtimeconfig.json
+C:\Users\nickh\Documents\Projects\scratch\scratch\src\scratch\bin\Debug\netcoreapp2.1\scratch.runtimeconfig.dev.json
+C:\Users\nickh\Documents\Projects\scratch\scratch\src\scratch\bin\Debug\netcoreapp2.1\scratch.dll
+C:\Users\nickh\Documents\Projects\scratch\scratch\src\scratch\bin\Debug\netcoreapp2.1\scratch.pdb
+C:\Users\nickh\Documents\Projects\scratch\scratch\src\scratch\obj\Debug\netcoreapp2.1\scratch.dll
+C:\Users\nickh\Documents\Projects\scratch\scratch\src\scratch\obj\Debug\netcoreapp2.1\scratch.pdb
